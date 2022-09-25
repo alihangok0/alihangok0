@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front-End Techs
 - 🌱 I’m currently learning Javascript, Css
 - 📫 How to reach me?
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/alihangok00-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alihangok00/)
 
 ![](https://komarev.com/ghpvc/?username=alihangok0&color=green)
